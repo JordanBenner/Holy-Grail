@@ -1,0 +1,86 @@
+body, html {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.box1 {
+  background-color: red;
+  width: 33.3%;
+  height: 33.3%;
+  position: absolute;
+  left: 0;
+}
+
+.box2 {
+  background-color: blue;
+  width: 33.3%;
+  height: 33.3%;
+  position: absolute;
+  margin-left: 33.3%
+}
+
+.box3 {
+  background-color: green;
+  width: 33.3%;
+  height: 33.3%;
+  position: absolute;
+  margin-left: 66.6%;
+}
+
+.box4 {
+  background-color: yellow;
+  width: 33.3%;
+  height: 33.3%;
+  position: absolute;
+  bottom: 0;
+}
+
+.box5 {
+  background-color: black;
+  width: 33.3%;
+  height: 33.3%;
+  position: relative;
+  ;
+  right: 0;
+  top: 33.3%;
+}
+
+.box6 {
+  background-color: purple;
+  width: 33.3333%;
+  height: 33.3%;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.box7 {
+  background-color: orange;
+  width: 33.3333%;
+  height: 33.333%;
+  position: absolute;
+  left: 0;
+  margin-left: 33.333%;
+  margin-bottom: 33.333%;
+}
+
+.box8 {
+  background-color: pink;
+  width: 33.3333%;
+  height: 33.3%;
+  position: absolute;
+  right: 0;
+  margin-bottom: 33.3%;
+}
+
+.box9 {
+  background-color: grey;
+  width: 33.3333%;
+  height: 33.3333%;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin-right: 33.333%;
+}
